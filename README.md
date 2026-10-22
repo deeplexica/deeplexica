@@ -113,13 +113,13 @@ Looking for Lexica Kit? This GitHub profile is the official starting point for f
 
 ## 🐍 GitHub Contribution Snake
 
-Our GitHub contribution activity is visualized in a blue-and-violet snake animation. It is regenerated automatically by [GitHub Actions](https://github.com/deeplexica/deeplexica/actions/workflows/snake.yml).
+Our GitHub contribution history is visualized as a blue-and-violet animated snake, built from the actual contribution calendar of **@deeplexica**.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deeplexica/deeplexica/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deeplexica/deeplexica/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/deeplexica/deeplexica/output/github-snake-dark.svg" width="100%" alt="Animated Deep Lexica GitHub contributions snake in blue and violet" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake-light.svg" />
+    <img src="assets/github-snake-dark.svg" width="100%" alt="Animated Deep Lexica GitHub contributions snake in blue and violet" />
   </picture>
 </div>
 
