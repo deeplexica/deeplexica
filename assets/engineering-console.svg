@@ -1,0 +1,22 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-label="Animated Deep Lexica developer console with AI systems workflow">
+<defs><linearGradient id="brand" x2="1" y2="1"><stop offset="0" stop-color="#096FBC"/><stop offset=".54" stop-color="#406BDC"/><stop offset="1" stop-color="#9C3BA6"/></linearGradient><radialGradient id="halo"><stop stop-color="#2D7BCF" stop-opacity=".35"/><stop offset="1" stop-color="#19234D" stop-opacity="0"/></radialGradient><filter id="light"><feGaussianBlur stdDeviation="10"/></filter></defs><style>
+@keyframes pulse {0%,100% {opacity:.35}50%{opacity:1}} 
+@keyframes dash {to{stroke-dashoffset:-120}}
+@keyframes bob {0%,100% {transform:translateY(0px)}50%{transform:translateY(-8px)}}
+@keyframes appear {0%,20%{opacity:0}30%,90%{opacity:1}100%{opacity:0}}
+@keyframes glow {0%,100%{fill:#2C7CBD}50%{fill:#B373E9}}
+@keyframes spin {to{transform:rotate(360deg)}}
+.pulse{animation:pulse 3.2s ease-in-out infinite}.dash{animation:dash 7s linear infinite}.bob{animation:bob 5s ease-in-out infinite}.appear{animation:appear 9s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="245" rx="22" fill="#0A0E29" stroke="#395B9F"/>
+<path d="M22 54 H1178" stroke="#4161A8" stroke-opacity=".45"/><circle cx="41" cy="28" r="7" fill="#C86074"/><circle cx="63" cy="28" r="7" fill="#E4B14F"/><circle cx="85" cy="28" r="7" fill="#5CBF9C"/>
+<text x="600" y="33" text-anchor="middle" font-size="15" font-weight="700" font-family="monospace" fill="#9FB9E3">deep-lexica / engineering-console</text>
+<text x="42" y="93" font-size="23" font-family="Consolas,monospace" fill="#6BB8FF">$</text>
+<text x="72" y="93" font-size="22" font-family="Consolas,monospace" fill="#E7EEFF">initialize --workspace deep-lexica</text>
+<text x="42" y="134" font-size="18" font-family="Consolas,monospace" fill="#9FC8FF">✓ artificial intelligence    ✓ software engineering</text>
+<text x="42" y="169" font-size="18" font-family="Consolas,monospace" fill="#B9A0FF">✓ intelligent automation    ✓ web and mobile applications</text>
+<text x="42" y="210" font-size="19" font-family="Consolas,monospace" fill="#65D8C9" class="appear">Ready to build what comes next_</text>
+<path d="M1140 190 V212" stroke="#B768F1" stroke-width="7" class="pulse"/>
+</svg>

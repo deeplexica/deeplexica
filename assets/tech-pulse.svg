@@ -1,0 +1,17 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-label="Deep Lexica technology pulse animated separator">
+<defs><linearGradient id="brand" x2="1" y2="1"><stop offset="0" stop-color="#096FBC"/><stop offset=".54" stop-color="#406BDC"/><stop offset="1" stop-color="#9C3BA6"/></linearGradient><radialGradient id="halo"><stop stop-color="#2D7BCF" stop-opacity=".35"/><stop offset="1" stop-color="#19234D" stop-opacity="0"/></radialGradient><filter id="light"><feGaussianBlur stdDeviation="10"/></filter></defs><style>
+@keyframes pulse {0%,100% {opacity:.35}50%{opacity:1}} 
+@keyframes dash {to{stroke-dashoffset:-120}}
+@keyframes bob {0%,100% {transform:translateY(0px)}50%{transform:translateY(-8px)}}
+@keyframes appear {0%,20%{opacity:0}30%,90%{opacity:1}100%{opacity:0}}
+@keyframes glow {0%,100%{fill:#2C7CBD}50%{fill:#B373E9}}
+@keyframes spin {to{transform:rotate(360deg)}}
+.pulse{animation:pulse 3.2s ease-in-out infinite}.dash{animation:dash 7s linear infinite}.bob{animation:bob 5s ease-in-out infinite}.appear{animation:appear 9s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect width="1200" height="116" rx="20" fill="#0B102D"/>
+<rect x="27" y="26" width="1146" height="64" rx="18" fill="#141A43" stroke="#3B5B9D"/>
+<path d="M58 59 H250 L276 39 L300 81 L331 30 L364 60 H490 L520 46 L550 73 L580 59 H1150" fill="none" stroke="url(#brand)" stroke-width="4" stroke-dasharray="100 10" class="dash"/>
+<circle cx="276" cy="39" r="6" fill="#70C1FD" class="pulse"/><circle cx="331" cy="30" r="6" fill="#BD6EEF" class="pulse"/>
+<text x="600" y="104" text-anchor="middle" fill="#94A9DB" font-family="Arial,sans-serif" font-size="10" letter-spacing="2.8">DEEP LEXICA • BUILT WITH PURPOSE</text>
+</svg>
