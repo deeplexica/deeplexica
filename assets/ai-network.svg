@@ -19,7 +19,7 @@
 </g>
 <g class="bob"><rect x="480" y="119" width="245" height="116" rx="24" fill="#161E48" stroke="#73A8F0" stroke-width="2"/>
 <text x="603" y="169" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#E9F5FF">LEXICA</text>
-<text x="603" y="199" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#B2BEE3">AI ENGINEERING</text></g>
+<text x="603" y="199" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#B2BEE3">AI INTELLIGENCE</text></g>
 
 <circle cx="230" cy="180" r="9" fill="#54ABEF" class="pulse" style="animation-delay:0s"/>
 <text x="230" y="215" fill="#C7D7FA" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" letter-spacing="1.3">DISCOVER</text>
@@ -33,5 +33,5 @@
 <text x="407" y="287" fill="#C7D7FA" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" letter-spacing="1.3">CONNECT</text>
 <circle cx="811" cy="248" r="9" fill="#8B5BE5" class="pulse" style="animation-delay:2.5s"/>
 <text x="811" y="283" fill="#C7D7FA" text-anchor="middle" font-size="14" font-family="Arial,sans-serif" letter-spacing="1.3">AUTOMATE</text>
-<text x="604" y="324" text-anchor="middle" font-size="15" letter-spacing="4" font-family="Arial,sans-serif" fill="#80A8E8">ARTIFICIAL INTELLIGENCE  /  SOFTWARE  /  AUTOMATION</text>
+<text x="604" y="324" text-anchor="middle" font-size="15" letter-spacing="4" font-family="Arial,sans-serif" fill="#80A8E8">AI AUTOMATION  /  MACHINE LEARNING  /  DEEP LEARNING</text>
 </svg>

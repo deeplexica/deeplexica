@@ -16,17 +16,17 @@
 <rect x="18" y="23" width="286" height="6" rx="3" fill="url(#gradient)"/>
 <circle cx="69" cy="79" r="27" fill="#2569BA" fill-opacity=".24" stroke="#658EE8" stroke-width="2" class="breathe"/>
 <g stroke="#B2DDFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(46,56)"><path d="M23 7 L34 15 V31 L23 42 L12 31 V15Z"/><path d="M23 7 V42 M12 15 L34 31 M34 15 L12 31"/></g>
-<text x="41" y="147" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">AI SOLUTIONS</text>
-<text x="41" y="183" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">Intelligent systems</text>
-<text x="41" y="207" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">and applied AI.</text>
+<text x="41" y="147" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">AI AUTOMATION</text>
+<text x="41" y="183" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">Intelligent tasks</text>
+<text x="41" y="207" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">and workflows.</text>
 <text x="41" y="269" fill="#569FEA" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">01 / DEEP LEXICA</text>
 </g><g>
 <rect x="316" y="23" width="286" height="274" rx="22" fill="#171D48" stroke="#466FC2" stroke-opacity=".55"/>
 <rect x="316" y="23" width="286" height="6" rx="3" fill="url(#gradient)"/>
 <circle cx="367" cy="79" r="27" fill="#2569BA" fill-opacity=".24" stroke="#658EE8" stroke-width="2" class="breathe"/>
 <g stroke="#B2DDFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(344,56)"><rect x="8" y="13" width="31" height="26" rx="5"/><path d="M14 22 L19 27 L14 32 M25 33 H33"/></g>
-<text x="339" y="147" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">SOFTWARE</text>
-<text x="339" y="183" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">Custom engineering</text>
+<text x="339" y="147" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">MACHINE LEARNING</text>
+<text x="339" y="183" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">Predictive intelligence</text>
 <text x="339" y="207" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">and applications.</text>
 <text x="339" y="269" fill="#569FEA" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">02 / DEEP LEXICA</text>
 </g><g>
@@ -34,9 +34,9 @@
 <rect x="614" y="23" width="286" height="6" rx="3" fill="url(#gradient)"/>
 <circle cx="665" cy="79" r="27" fill="#2569BA" fill-opacity=".24" stroke="#658EE8" stroke-width="2" class="breathe"/>
 <g stroke="#B2DDFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(642,56)"><rect x="5" y="10" width="34" height="27" rx="3"/><path d="M5 18 H39 M14 44 H29"/></g>
-<text x="637" y="147" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">WEB &amp; MOBILE</text>
-<text x="637" y="183" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">Digital products</text>
-<text x="637" y="207" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">and experiences.</text>
+<text x="637" y="147" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">DEEP LEARNING</text>
+<text x="637" y="183" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">Neural networks</text>
+<text x="637" y="207" fill="#B8C6EB" font-family="Arial,sans-serif" font-size="16">and AI models.</text>
 <text x="637" y="269" fill="#569FEA" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">03 / DEEP LEXICA</text>
 </g><g>
 <rect x="912" y="23" width="286" height="274" rx="22" fill="#171D48" stroke="#466FC2" stroke-opacity=".55"/>

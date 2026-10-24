@@ -26,8 +26,8 @@
 <text x="46" y="158" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="-1">DEEP <tspan fill="#72C3FF">LEXICA</tspan></text>
 <rect x="48" y="180" width="510" height="5" rx="3" fill="url(#gradient)"/>
 <text x="48" y="233" fill="#E0ECFF" font-family="Arial,sans-serif" font-size="27" font-weight="600">Intelligence in every solution.</text>
-<text x="48" y="275" fill="#AFBCE4" font-family="Arial,sans-serif" font-size="20">AI Solutions  •  Software Engineering</text>
-<text x="48" y="306" fill="#AFBCE4" font-family="Arial,sans-serif" font-size="20">Automation  •  Lexica Kit</text>
+<text x="48" y="275" fill="#AFBCE4" font-family="Arial,sans-serif" font-size="20">AI Automation  •  Machine Learning</text>
+<text x="48" y="306" fill="#AFBCE4" font-family="Arial,sans-serif" font-size="20">Deep Learning  •  Problem Solving</text>
 <g class="float">
 <circle cx="1050" cy="275" r="65" fill="#26245D" stroke="url(#gradient)" stroke-width="3"/>
 <circle cx="1050" cy="275" r="48" fill="none" stroke="#61B5F4" stroke-width="2" stroke-dasharray="5 10" class="dash"/>
